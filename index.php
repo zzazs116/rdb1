@@ -22,7 +22,7 @@
                 </div>
                 <div class="hero-image">
                     <div class="hero-image-wrapper">
-                        <img src="https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=600&h=700&fit=crop&crop=face" alt="ماس كلينيك - جمالك الطبيعي" loading="eager">
+                        <img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=600&h=700&fit=crop&crop=face" alt="ماس كلينيك - جمالك الطبيعي" loading="eager">
                     </div>
                 </div>
             </div>
@@ -177,18 +177,6 @@
     <section class="why-us" id="clinic">
         <div class="container">
             <div class="why-us-inner">
-                <div class="why-us-image">
-                    <div class="why-us-image-wrapper">
-                        <img src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=600&h=400&fit=crop" alt="عيادة ماس كلينيك من الداخل" loading="lazy">
-                        <div class="why-us-logo-overlay">
-                            <svg viewBox="0 0 80 70" xmlns="http://www.w3.org/2000/svg">
-                                <text x="5" y="45" font-family="serif" font-size="48" font-weight="bold" fill="#ffffff" font-style="italic">MS</text>
-                                <line x1="5" y1="52" x2="75" y2="52" stroke="#ffffff" stroke-width="1"/>
-                                <text x="12" y="66" font-family="sans-serif" font-size="14" fill="#ffffff" letter-spacing="6">CLINIC</text>
-                            </svg>
-                        </div>
-                    </div>
-                </div>
                 <div class="why-us-content">
                     <h2>لماذا ماس كلينيك؟</h2>
                     <ul class="why-us-list">
@@ -210,6 +198,18 @@
                         </li>
                     </ul>
                     <a href="#contact" class="btn btn-primary">احجز استشارتك الآن</a>
+                </div>
+                <div class="why-us-image">
+                    <div class="why-us-image-wrapper">
+                        <img src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=600&h=400&fit=crop" alt="عيادة ماس كلينيك من الداخل" loading="lazy">
+                        <div class="why-us-logo-overlay">
+                            <svg viewBox="0 0 80 70" xmlns="http://www.w3.org/2000/svg">
+                                <text x="5" y="45" font-family="serif" font-size="48" font-weight="bold" fill="#ffffff" font-style="italic">MS</text>
+                                <line x1="5" y1="52" x2="75" y2="52" stroke="#ffffff" stroke-width="1"/>
+                                <text x="12" y="66" font-family="sans-serif" font-size="14" fill="#ffffff" letter-spacing="6">CLINIC</text>
+                            </svg>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
